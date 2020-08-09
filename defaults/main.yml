@@ -1,0 +1,13 @@
+---
+
+chocolatey_packages:
+  #allow_empty_checksums: no
+  #allow_multiple: no
+  #allow_prerelease: no
+  #ignore_checksums: no
+  #ignore_dependencies: no
+  packages: []
+  #skip_scripts: no
+  #state: present
+  #timeout: 2700
+  #validate_certs: yes
